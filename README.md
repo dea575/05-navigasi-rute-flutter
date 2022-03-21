@@ -1,16 +1,5 @@
-# navigasi_rute
+Dea Vernanda R.N
+MI 2F / 05
+2031710084
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220321-190342](https://user-images.githubusercontent.com/89899114/159260704-c047bad3-1adc-410b-b56e-4e1e65e89d40.jpg)
